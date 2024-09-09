@@ -25,7 +25,7 @@ Its very easy to connect Terraform with AWS. Run `aws configure` command and pro
 
 Clone the repository and Run `terraform init`. This will intialize the terraform environment for you and download the modules, providers and other configuration required.
 
-### Optionally review the terraform configuration
+### Optionally review the terraform configuration.
 
 Run `terraform plan` to see the configuration it creates when executed.
 
